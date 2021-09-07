@@ -3,7 +3,7 @@
 An Instagram Clone using Laravel
 
 ## Getting started
-1. Clone project `git clone https://github.com/stephen-golban/Hologram.git`
+1. Clone project `https://github.com/stephen-golban/instagram-clone.git`
 2. Go to the folder `cd Hologram`
 3. Install composer `composer install`
 4. Install npm package `npm install`
