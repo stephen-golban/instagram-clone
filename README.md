@@ -1,4 +1,4 @@
-# InstaClone
+# Hologram
 
 An Instagram Clone using Laravel
 
